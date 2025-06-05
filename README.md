@@ -135,12 +135,12 @@ Then visit `http://127.0.0.1:8055` in your browser.
 ![SHAP Plot](https://github.com/Praneeth-official/AI_HeartDiseasePrediction/blob/master/screenshots/SHAP%20Plot.png)
 ## 👨‍⚕️ Author
 
-**Praneeth Badanapally**  
+### Praneeth Badanapally ###
 Master’s in Data Science, UMass Dartmouth  
 📧 [badanapallypraneeth3@gmail.com](mailto:badanapallypraneeth3@gmail.com)  
 🔗 [GitHub](https://github.com/Praneeth-official)
-**Under the Guidance of Professor 
-## Dr.Iren Valova, PhD ##
+## Under the Guidance of Professor ##
+### Dr.Iren Valova, PhD ###
 Associate Dean,
 College of Engineering,
 University of Massachusetts Dartmouth 
