@@ -1,0 +1,17 @@
+# Ignore Python and Jupyter files
+__pycache__/
+*.pyc
+*.pyo
+*.ipynb_checkpoints/
+
+# Ignore datasets and models
+*.csv
+*.xlsx
+*.h5
+*.pkl
+
+# Ignore system files
+.DS_Store
+
+# Ignore environment files
+.env
