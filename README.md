@@ -4,7 +4,6 @@
 A secure, interpretable machine learning system built to predict 10-year Coronary Heart Disease (CHD) risk using the Framingham Heart Study dataset. Designed as a clinical decision support tool for healthcare professionals and patients, the app integrates state-of-the-art ML models, SHAP-based explainability, and a user-friendly Dash interface.
 
 ---
-![image alt](https://github.com/Praneeth-official/AI_HeartDiseasePrediction/blob/master/screenshots/CHD%20Risk%20Score.png?raw=true)
 ## 📌 Project Overview
 
 - 🔬 **Dataset**: Framingham Heart Study (4,240 patient records, 17 features)
@@ -127,7 +126,13 @@ Then visit `http://127.0.0.1:8055` in your browser.
 
 ---
 ## Screenshots
-
+![Sign Up](https://github.com/Praneeth-official/AI_HeartDiseasePrediction/blob/master/screenshots/Signup.png?raw=true)
+![Sign In](https://github.com/Praneeth-official/AI_HeartDiseasePrediction/blob/master/screenshots/Sign%20In.png?raw=true)
+![Login](https://github.com/Praneeth-official/AI_HeartDiseasePrediction/blob/master/screenshots/Login.png)
+![Dashboard](https://github.com/Praneeth-official/AI_HeartDiseasePrediction/blob/master/screenshots/Dashboard.png)
+![User Input](https://github.com/Praneeth-official/AI_HeartDiseasePrediction/blob/master/screenshots/User%20Input.png)
+![CHD Risk Score](https://github.com/Praneeth-official/AI_HeartDiseasePrediction/blob/master/screenshots/CHD%20Risk%20Score.png?raw=true)
+![SHAP Plot](https://github.com/Praneeth-official/AI_HeartDiseasePrediction/blob/master/screenshots/SHAP%20Plot.png)
 ## 👨‍⚕️ Author
 
 **Praneeth Badanapally**  
