@@ -140,12 +140,12 @@ Master’s in Data Science, UMass Dartmouth
 📧 [badanapallypraneeth3@gmail.com](mailto:badanapallypraneeth3@gmail.com)  
 🔗 [GitHub](https://github.com/Praneeth-official)
 **Under the Guidance of Professor Dr.Iren Valova, PhD**
-Associate Dean,
-College of Engineering,
-University of Massachusetts Dartmouth 
-Contact
-508-999-8502
-iren.valova@umassd.edu
+\n Associate Dean,
+\n College of Engineering,
+\n University of Massachusetts Dartmouth 
+\n Contact
+\n 508-999-8502
+\n [iren.valova@umassd.edu](mailto:iren.valova@umassd.edu)
 ![School logo](https://upload.wikimedia.org/wikipedia/en/thumb/2/24/University_of_Massachusetts_Dartmouth_seal.svg/800px-University_of_Massachusetts_Dartmouth_seal.svg.png)
 ---
 
