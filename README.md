@@ -1,5 +1,5 @@
 
-# 🧠 AI Heart Disease Risk Predictor
+# 🩺 AI-Based Heart Disease Risk Prediction Web App
 
 A secure, interpretable machine learning system built to predict 10-year Coronary Heart Disease (CHD) risk using the Framingham Heart Study dataset. Designed as a clinical decision support tool for healthcare professionals and patients, the app integrates state-of-the-art ML models, SHAP-based explainability, and a user-friendly Dash interface.
 
